@@ -6,8 +6,12 @@ int main()
 {
     printf("Hello World!");
     return 0;
-}```
+}
+```
+
+
 2. Sum of 2 numbers
+
 Easy method:
 
 ```c
