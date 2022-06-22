@@ -35,5 +35,6 @@ int main()
     tempF= (1.8*tempC)+32;
     printf("The temperature in Fahrenheit: %d",tempF);
     return 0;
-}```
+}
+```
 
