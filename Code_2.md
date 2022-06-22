@@ -16,9 +16,12 @@ area=len*wid;
 printf("Area of the rectangle is: %d",area);
 return 0;
 
-}```
+}
+```
 
 4. Convert Celsius to Fahrenheit
+
+
 ```C
 
 #include <stdio.h>
