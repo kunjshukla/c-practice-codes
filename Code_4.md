@@ -34,3 +34,31 @@ int main()
 
 }
 ```
+10. Identifying the type of character of entered:
+```C
+#include<stdio.h>
+int main()
+{
+    int a,i;
+
+    printf("Enter the character here: ");
+    scanf("%d",&a);
+
+    if(a>'a'&&a<'z')
+    {
+        printf("%d is a small letter.",a);
+    }
+    else if(a>'A'&&a<'Z')
+    {
+        printf("%d is a Capital letter.",a);
+    }
+    else if(a>'0'&&a<'9')
+    {
+        printf("%d is a digit.",a);
+    }
+    else
+    {
+        printf("%d is a special character.",a);
+    }
+
+}```
