@@ -1,4 +1,4 @@
-
+12. Maximum and Minimum of an array:
 
 ```C
 #include<stdio.h>
@@ -29,9 +29,10 @@ int main()
     printf("The smallest number is: %d",min);
     
     
-}```
+}
+```
 
-
+13. To find the Last digit of the number entered is even or odd:
 
 ```C
 #include<stdio.h>
@@ -51,8 +52,10 @@ int main()
    }
     
     
-}```
+}
+```
 
+14. Finding factorial of a number (IMP)
 
 ```C
 #include<stdio.h>
